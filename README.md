@@ -57,6 +57,7 @@ The Power BI dashboard includes:
 The Power BI report file is located in the `powerbi` folder.
 
 ## Project Structure
+
 ```text
 business-sales-analytics/
 ├── sql/
@@ -65,11 +66,13 @@ business-sales-analytics/
 │   ├── 03_product_profitability.sql
 │   ├── 04_discount_analysis.sql
 │   └── 05_monthly_trends.sql
-├── powerbi/
-│   └── Business_Sales_Analytics.pbix
+├── screenshots/
+│   └── Business analytics Portfolio Dashboard.png
 ├── findings_and_recommendations.md
 └── README.md
 ```
+
+**Note:** The Power BI `.pbix` file and raw dataset are kept locally and are not included in this public repository.
 
 ## Dataset Source
 - **Dataset:** Superstore Dataset
